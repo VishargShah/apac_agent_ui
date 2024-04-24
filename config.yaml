@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    call_center_agent:
+      email: visharg.shah@asianpaints.com
+      name: Agent!
+      password: $2b$12$geMPOziZfOd450U5lhjSOeFfv4QEAptCmCH84/fCHJ52XoCGzIAKG
+    
+cookie:
+  expiry_days: 1
+  key: call_center_agent_key # Must be string
+  name: call_center_agent_cookie_name

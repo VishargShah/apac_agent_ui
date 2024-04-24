@@ -1,0 +1,6 @@
+pillow
+pyyaml
+streamlit
+streamlit-authenticator
+google-cloud-aiplatform
+google-cloud-logging
